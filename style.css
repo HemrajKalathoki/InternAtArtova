@@ -1,0 +1,12 @@
+.card-container{
+    display: flex;
+}
+.test{
+    width: 25%;
+    height: 200px;
+    padding: 25px;
+    background-color: gray;
+    border: 4px solid greenyellow;
+    border-radius: 50px;
+    /* margin: auto; */
+}
